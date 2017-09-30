@@ -773,7 +773,7 @@ html {
 }
 
 body {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Roboto Light', sans-serif;
   color: #515151;
   background-color: #fbfbfb;
   margin: 0;
@@ -1075,9 +1075,9 @@ footer .copyright {
 }
 
 .post .post-content .post-title a {
-  font-family: 'PT Serif', serif;
+  font-family: 'Product Sans', serif;
   text-decoration: none;
-  color: #263959;
+  color: #292929;
 }
 
 .post .post-content p {
