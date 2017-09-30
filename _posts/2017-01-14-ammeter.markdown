@@ -1,0 +1,10 @@
+---
+layout: post
+title: "DIY Robot Ammeter Project"
+date: 2017-01-14 13:32:20 +0300
+description: Designed and built an ammeter for use in testing prototype robot mechanisms.  # Add post description (optional)
+img: ammeter-main.jpg # Add image post (optional)
+tags: [Robotics]
+---
+
+Designed and built an ammeter for use in testing prototype robot mechanisms.

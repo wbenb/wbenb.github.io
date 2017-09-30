@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Building a 3D Printer"
+date: 2017-03-12 13:32:20 +0300
+description: Built and tested my family's new 3D printer.  # Add post description (optional)
+img: 3d-printer-main.jpg # Add image post (optional)
+tags: [Robotics]
+---
+
+Built and tested my family's new 3D printer.
