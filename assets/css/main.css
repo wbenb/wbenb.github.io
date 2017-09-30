@@ -909,6 +909,8 @@ pre code {
 .about p {
   font-size: 16px;
   margin: 0 0 10px;
+    margin-left: 4px;
+    margin-right: 4px;
 }
 
 .content-box {
