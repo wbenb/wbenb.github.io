@@ -2,9 +2,40 @@
 layout: post
 title: "Building my new PC"
 date: 2014-12-28 13:32:20 +0300
-description: Budgeted and researched components to build myself a new PC.  # Add post description (optional)
+description: Budgeted, researched components, and built myself a new PC.  # Add post description (optional)
 img: pc-build-main.jpg # Add image post (optional)
-tags:
+tags: [RESEARCH]
 ---
 
-Budgeted and researched components to build myself a new PC.
+Budgeted, researched components, and built myself a new PC.
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span">**PURPOSE**</td>
+<td markdown="span">I wanted a PC for  Christmas, so my parents gave me a budget and told me to research and pick out the components I wanted to fit the budget.
+</td>
+</tr>
+<tr>
+<td markdown="span">**MATERIALS**</td>
+<td markdown="span">[parts list]() 
+</td>
+</tr>
+<tr>
+<td markdown="span">**MY ROLE**</td>
+<td markdown="span">Budgeted, researched components, and built myself a new PC. 
+[Inside](PCInside.jpg)\n
+[Mother Board](PCMotherBoard.jpg)\n
+[CPU](PCCPU.jpg)\n
+[Water Cooled Fan](PCWaterCool1.jpg)\n
+[Water Cooled CPU](PCWaterCool2.jpg)\n
+[Graphics Card](PCGraphicsCard.jpg)\n
+[Board Install](PCBoardInstall.jpg)\n
+[SSD](PCSSD.jpg)\n
+</td>
+</tr>
+</tbody>
+</table>
