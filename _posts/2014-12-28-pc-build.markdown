@@ -27,14 +27,14 @@ Budgeted, researched components, and built myself a new PC.
 <tr>
 <td markdown="span">**MY ROLE**</td>
 <td markdown="span">Budgeted, researched components, and built myself a new PC. 
-[Inside](PCInside.jpg)\n
-[Mother Board](PCMotherBoard.jpg)\n
-[CPU](PCCPU.jpg)\n
-[Water Cooled Fan](PCWaterCool1.jpg)\n
-[Water Cooled CPU](PCWaterCool2.jpg)\n
-[Graphics Card](PCGraphicsCard.jpg)\n
-[Board Install](PCBoardInstall.jpg)\n
-[SSD](PCSSD.jpg)\n
+![Inside](PCInside.jpg)
+![Mother Board](PCMotherBoard.jpg)
+![CPU](PCCPU.jpg)
+![Water Cooled Fan](PCWaterCool1.jpg)
+![Water Cooled CPU](PCWaterCool2.jpg)
+![Graphics Card](PCGraphicsCard.jpg)
+![Board Install](PCBoardInstall.jpg)
+![SSD](PCSSD.jpg)
 </td>
 </tr>
 </tbody>
