@@ -7,10 +7,10 @@ img: pc-build-main.jpg # Add image post (optional)
 tags: [RESEARCH]
 ---
 
-##Purpose
+## Purpose
 I wanted a PC for  Christmas, so my parents gave me a budget and told me to research and pick out the components I wanted to fit the budget. So I budgeted, researched components, and built myself a new PC.
 
-##Parts
+## Parts
 These are the components that I chose for my PC:
 * Intel Core i7-4790K Processor
 * Corsair H55 CPU Liquid Cooler
