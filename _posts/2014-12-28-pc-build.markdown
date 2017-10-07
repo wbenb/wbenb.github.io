@@ -27,7 +27,7 @@ Budgeted, researched components, and built myself a new PC.
 <tr>
 <td markdown="span">**MY ROLE**</td>
 <td markdown="span">Budgeted, researched components, and built myself a new PC. 
-![Inside](http://wbenb.github.io/assets/img/PCInside.jpg)
+![Inside](http://wbenb.github.io/assets/img/PCInside.jpg){:height="50%" width="50%"}
 ![Mother Board](http://wbenb.github.io/assets/img/PCMotherBoard.jpg)
 ![CPU](http://wbenb.github.io/assets/img/PCCPU.jpg)
 ![Water Cooled Fan](http://wbenb.github.io/assets/img/PCWaterCool1.jpg)
