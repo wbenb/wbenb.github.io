@@ -7,4 +7,14 @@ img: ammeter-main.jpg # Add image post (optional)
 tags: [Robotics]
 ---
 
-Designed and built an ammeter for use in testing prototype robot mechanisms.
+## Purpose
+After building the PWM Motor Tester, I realized that a nice feature to have would be a way to see how much power the motor is drawing so that we know how it will affect our power distribution system on the robot later. So, I came up with an idea for an all-in-one box that you connect inline with the motor that would readout the voltage and current measurements.
+
+## Parts
+* DROK 100 Amp DC Ammeter with Display
+* DROK 3-30 Volt DC Voltmeter Display
+* Hammond Plastic Project Box
+* Nice 10AWG Silicone Insulated Wire
+
+## Details
+In order to find the voltage, I connected the Voltmeter in parallel to the load, which worked perfectly. However, when wiring an ammeter like this one, I needed to connect the current shunt in series with the load's ground, and the power wires for the display in series next to the voltmeter. This made the wiring much more complex as a result. When I went to test it, the voltmeter displayed the proper voltage, but the ammeter only showed a very low number. I am not sure why this is, I am fairly sure the ammeter we picked doesn't have adaquete resolution to be used with a single relatively small motor. My next step in troubleshooting this design will be connecting it to a much larger load, while exluding the voltmeter, to hopefully show the ammeter working properly.
