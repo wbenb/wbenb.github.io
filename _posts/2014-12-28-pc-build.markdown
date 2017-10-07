@@ -27,14 +27,14 @@ Budgeted, researched components, and built myself a new PC.
 <tr>
 <td markdown="span">**MY ROLE**</td>
 <td markdown="span">Budgeted, researched components, and built myself a new PC. 
-![Inside](PCInside.jpg)
-![Mother Board](PCMotherBoard.jpg)
-![CPU](PCCPU.jpg)
-![Water Cooled Fan](assets/img/PCWaterCool1.jpg)
-![Water Cooled CPU](PCWaterCool2.jpg)
-![Graphics Card](PCGraphicsCard.jpg)
-![Board Install](PCBoardInstall.jpg)
-![SSD](PCSSD.jpg)
+![Inside](http://wbenb.github.io/assets/img/PCInside.jpg)
+![Mother Board](http://wbenb.github.io/assets/img/PCMotherBoard.jpg)
+![CPU](http://wbenb.github.io/assets/img/PCCPU.jpg)
+![Water Cooled Fan](http://wbenb.github.io/assets/img/PCWaterCool1.jpg)
+![Water Cooled CPU](http://wbenb.github.io/assets/img/PCWaterCool2.jpg)
+![Graphics Card](http://wbenb.github.io/assets/img/PCGraphicsCard.jpg)
+![Board Install](http://wbenb.github.io/assets/img/PCBoardInstall.jpg)
+![SSD](http://wbenb.github.io/assets/img/PCSSD.jpg)
 </td>
 </tr>
 </tbody>
