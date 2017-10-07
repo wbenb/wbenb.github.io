@@ -8,7 +8,7 @@ tags: [RESEARCH, DESIGN]
 ---
 
 ## Purpose
-As my 9th grade Honors Physic end of year project, built a device to send audio signals over distances via a laser beam.
+As my 9th grade Honors Physics end of year project, built a device to send audio signals over distances via a laser beam.
 
 ## Parts
 * Altoids Metal Tins
