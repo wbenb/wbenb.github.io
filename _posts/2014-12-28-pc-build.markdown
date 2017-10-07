@@ -30,7 +30,7 @@ Budgeted, researched components, and built myself a new PC.
 ![Inside](PCInside.jpg)
 ![Mother Board](PCMotherBoard.jpg)
 ![CPU](PCCPU.jpg)
-![Water Cooled Fan](PCWaterCool1.jpg)
+![Water Cooled Fan](assets/img/PCWaterCool1.jpg)
 ![Water Cooled CPU](PCWaterCool2.jpg)
 ![Graphics Card](PCGraphicsCard.jpg)
 ![Board Install](PCBoardInstall.jpg)
