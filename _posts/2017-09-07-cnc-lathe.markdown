@@ -12,7 +12,7 @@ At robotics, one of the machine that gets used fairly often is our small lathe. 
 
 ## Parts
 * Small Low Cost Manual Lathe
-* Large 1/2 Horsepower 3 Phase Drive Motor
+* Large 1/2 Horsepower 3 Phase Motor
 * Three Phase Variable Frequency Drive
 * High Torque Stepper Motors
 * Stepper Motor Drivers
