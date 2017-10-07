@@ -7,42 +7,21 @@ img: pc-build-main.jpg # Add image post (optional)
 tags: [RESEARCH]
 ---
 
-Budgeted, researched components, and built myself a new PC.
-<table>
-<colgroup>
-<col width="20%" />
-<col width="80%" />
-</colgroup>
-<tbody>
-<tr>
-<td markdown="span">**PURPOSE**</td>
-<td markdown="span">I wanted a PC for  Christmas, so my parents gave me a budget and told me to research and pick out the components I wanted to fit the budget.
-</td>
-</tr>
-<tr>
-<td markdown="span">**PARTS**</td>
-<td markdown="span">
-    <ul>
-     <li>Intel Core i7-4790K Processor</li>
-     <li>Corsair H55 CPU Liquid Cooler</li>
-     <li>Asus Z97-A Motherboard </li>
-     <li>Corsair Vengeance Pro 16GB DDR3-1866 Memory </li>
-     <li>Samsung 850 EVO 120GB SSD</li>
-     <li>Western Digital BLACK 1TB 7200RPM</li>
-     <li>EVGA GeForce GTX 970 FTW Video Card </li>
-     <li>Corsair 760T White Case </li>
-     <li>Corsair RM 850W Fully-Modular Power Supply</li>
-     <li>Microsoft Windows 10 Pro 64-bit</li>
-     <li>TP-Link PCI-Express Wi-Fi Adapter</li>
-     <li>Cougar 140mm Green LED Fan x3</li>
-     <li>NZXT Hue+ LED Lighting</li>
-    </ul>
-</td>
-</tr>
-<tr>
-<td markdown="span">**MY ROLE**</td>
-<td markdown="span">Budgeted, researched components, and built myself a new PC. 
-</td>
-</tr>
-</tbody>
-</table>
+##Purpose
+I wanted a PC for  Christmas, so my parents gave me a budget and told me to research and pick out the components I wanted to fit the budget. So I budgeted, researched components, and built myself a new PC.
+
+##Parts
+These are the components that I chose for my PC:
+* Intel Core i7-4790K Processor
+* Corsair H55 CPU Liquid Cooler
+* Asus Z97-A Motherboard
+* Corsair Vengeance Pro 16GB DDR3-1866 Memory
+* Samsung 850 EVO 120GB SSD
+* Western Digital BLACK 1TB 7200RPM
+* EVGA GeForce GTX 970 FTW Video Card
+* Corsair 760T White Case
+* Corsair RM 850W Fully-Modular Power Supply
+* Microsoft Windows 10 Pro 64-bit
+* TP-Link PCI-Express Wi-Fi Adapter
+* Cougar 140mm Green LED Fan x3
+* NZXT Hue+ LED Lighting
