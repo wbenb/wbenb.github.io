@@ -24,3 +24,5 @@ At robotics, as the designs are made, we start prototyping all the different mec
 To control the speed of a motor in our robot control system, we need to power the motor controller from a robot battery while giving a PWM signal to tell it how fast, and in what direction, to move the motor. PWM, or Pulse Width Modulation consists of a series of on-off pulses of elecricity to form a square shaped wave. The width between pulses tells the motor controller how much voltage to give the motor, in turn varying the speed. 1000us, or microseconds, between pulses results in full speed reverse, 1500us is no movement (neutral), and 2000us is full speed forward. 
 
 So, to generate a PWM signal for the motor controller, we setup a small Arduino microprocessor (an Adafruit Trinket) to be powered off a rechargable battery, and programmed it to read the value of the potentiometer knob and output a PWM signal with the appropriate pulse width to vary the speed and direction that the motor controller runs the motor at.
+
+More resources about this project can be found on my [Github](https://github.com/wbenb/PWMgen).
