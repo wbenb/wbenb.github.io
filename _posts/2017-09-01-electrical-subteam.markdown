@@ -10,4 +10,4 @@ tags:
 
 Responsible for designing and building the robot’s electrical & pneumatics system, training sub-team members, and debugging electrical and non-electrical problems under pressure as part of the pit crew during competitions.  Triple Helix advanced to the FIRST World Championship in St. Louis for the last 4 years!
 
-![2015 Robot](assets/img/2015-robot.png)
+![2015 Robot](http://wbenb.github.io/assets/img/2015-robot.png)
