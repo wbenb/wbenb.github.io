@@ -14,7 +14,7 @@ This is a picture of the robot we built in 2015 to play the game Recycle Rush. T
 
 ![2015 Robot](http://wbenb.github.io/assets/img/2015-robot.png)
 
-
+This is our 2016 robot that we built to play the game Stronghold. In stronghold, the robots have to cross defences to get to the other side of the feild in order to score points by putting a ball into the high or low goal on the opponents tower. One of these defences, called the low bar stays the same, one is selected by the audience, and three are selected by the opposing team. We built our robot to be able to cross all the defences while being robust and able to score in the low goal, and climb then hang from the opponents tower at the end of the round for extra points. Our robot design did all of these things while still managing to fit under the low bar at 16 inches high.
 
 ![2016 Robot](http://wbenb.github.io/assets/img/2016-robot.jpg)
 
