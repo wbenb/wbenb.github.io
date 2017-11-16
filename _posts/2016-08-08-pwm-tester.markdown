@@ -26,3 +26,6 @@ To control the speed of a motor in our robot control system, we need to power th
 So, to generate a PWM signal for the motor controller, I setup a small Arduino microprocessor (an Adafruit Trinket) to be powered off a rechargable battery. I programmed it to read the value of the potentiometer knob and output a PWM signal with the appropriate pulse width to vary the speed and direction at which the motor controller runs the motor.
 
 More resources about this project can be found on my [Github](https://github.com/wbenb/PWMgen).
+
+![PWM Motor Tester](http://wbenb.github.io/assets/img/pwm_tester.jpg)
+
