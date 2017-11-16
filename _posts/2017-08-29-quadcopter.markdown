@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Overview
-I saw lots of designs and parts for making your own custom quadcopter on the internet. I looked into it and started researching parts that I used to make a beginner quadcopter complete with programmable flight controller, and video camera feeds back to the controller or to an FPV headset.
+There are lots of designs and parts for building your own custom quadcopter on the internet. After looking into it and researching parts, I built a beginner quadcopter complete with a programmable flight controller and video camera feeds back to the controller or to an FPV headset.
 
 ## Parts
 * SP Racing F3 Flight Controller
@@ -24,4 +24,4 @@ I saw lots of designs and parts for making your own custom quadcopter on the int
 * Flysky FS i6X Transmitter
 
 ## Details
-I got many of these parts in a bundle from Amazon for much cheaper. To build a Quadcopter this size requires some planning, wire management, and fine soldering work. Once I had the motors, power distribution board, motor controllers, and flight controller set up, I was able to plug it into my computer and start programming the flight controller. After that I was able to hook up my transmitter and reciever and take it for a test fly. I found that flying a quad like this one takes a lot of time to learn, because you can control every axis independently, and I even do flips, if I program it to use the correct auto-leveling mode. My next upgrade was adding the video camera system. This consists of a small 'security camera' style camera with extremely low latency, a high power transmitter, and a screen with reciever built-in. I wired up the camera and transmitter on my quad, and 3D printed a mounting bracket to seccure the screen to the top of my controller, so that as I fly, I can see the live video feed from the drone on the screen.
+I got many of these parts in a bundle from Amazon for much cheaper. Building a Quadcopter this size requires some planning, wire management, and fine soldering work. Once I had the motors, power distribution board, motor controllers, and flight controller set up, I was able to plug it into my computer and start programming the flight controller. After that, I was able to hook up my transmitter and reciever and take it for a test fly. I discovered that flying a quad like this takes a lot of time to learn. I can control every axis independently and I can even do flips, if I program it to use the correct auto-leveling mode. My next upgrade was adding the video camera system. This consists of a small security-style camera with extremely low latency, a high power transmitter, and a screen with the reciever built-in. I wired up the camera and transmitter on my quad, and 3D printed a mounting bracket to secure the screen to the top of my controller, so that as I fly, I can see the live video feed from the drone on the screen.
