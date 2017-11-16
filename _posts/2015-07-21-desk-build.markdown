@@ -18,5 +18,5 @@ After my custom PC build, I needed a desk upgrade due to space issues. After loo
 ## Details
 I decided on a design using a solid slab of wood for the top, and frame made of black iron piping (like used for natural gas) from the hardware store. I measured how high I wanted the desk off the ground and the spacing I wanted for the legs. I used pipe end caps for the bottom of the legs where they touch the carpet, and pipe floor flanges where the legs screw onto the table top. I incorporated a back, horizontal support extending from the left side legs to the right side legs. That support added resistance to side to side movement, and doubles as a footrest. The finishing touch was attaching the cheap Ikea Signum trays to the bottom of the desk. This allowed me to create a very clean looking PC setup by tucking all the cords and power strips up into the tray getting them off the floor.
 
-![Dest](http://wbenb.github.io/assets/img/desk.jpg)
+![Desk](http://wbenb.github.io/assets/img/desk.jpg)
 
