@@ -8,7 +8,7 @@ tags: [Robotics]
 ---
 
 ## Purpose
-At robotics, one of the machine that gets used fairly often is our small lathe. Its main job was to make grooves in shafts for snap on retaining rings. Making these grooves manually take time and labor to do. So, one of our mentors brought in a tiny low cost lathe that had most of its parts taken from it. I am now helping to convert this lathe into a computer controlled lathe that can automatically create snap ring grooves with greater accuracy, faster and with less work.
+At robotics, one machine that gets used fairly often is our small lathe. Its main job is to make grooves in shafts for snap on retaining rings. Making these grooves manually takes time and labor. So, one of our mentors brought in a tiny, low cost lathe which had most of its parts taken from it. I am currently helping to convert this lathe into a computer controlled lathe which can automatically create snap ring grooves with greater accuracy, faster and with less work.
 
 ## Parts
 * Small Low Cost Manual Lathe
@@ -19,7 +19,7 @@ At robotics, one of the machine that gets used fairly often is our small lathe. 
 * Rotary Encoder for Sensing Speed
 
 ## Details
-We started by stripping the lathe down to just the bare mechanical components. I then designed and machined motor mounting brackets for the much larger and more powerful motor that we're upgrading to. This new motor was a 240 Volt 3 Phase induction motor, that means it doesnt run off normal wall outlet power. This means that we need a VFD, or Variable Frequency Drive, to convert the single phase power from a wall outlet to 3 phase power to run the motor. A huge benefit of using a VFD is that you can program it to have many inputs and outputs to control the motor from software or sensors, it provides speed and torque control, and can regulate current draw and temperature. 
+We started by stripping the lathe down to its bare mechanical components. I, then, designed and machined motor mounting brackets to support a much larger and more powerful motor upgrade. This new motor was a 240 Volt, 3 Phase induction motor, which meant it didn't run off normal wall outlet power. We needed a VFD, or Variable Frequency Drive, to convert the single phase power from a wall outlet to 3 phase power to run the motor. A huge benefit of using a VFD is that you can program it to have many inputs and outputs, to control the motor from software or sensors. VFD also provides speed and torque control, and can regulate current draw and temperature. 
 
 ## Next Steps
-Currently I am working on making pulleys to connect the motor to the lathe, and attaching stepper motor to the lathe to move the X and Y axis. For that I also need to add and configure stepper motor drivers to be able to precisely control the movement of the axis to make presicion parts by inputing CAD files.
+Currently, I am working on making the pulleys to connect the motor to the lathe, and attaching stepper motor to the lathe to move the X and Y axis. For that I also need to add and configure stepper motor drivers for precisely controlling the movement of the axis to make presicion parts using CAD files.
