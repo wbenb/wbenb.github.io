@@ -20,3 +20,5 @@ After cleaning out our garage the previous summer, I thought it would be cool to
 
 ## Details
 First, I made a 3D CAD model of the workbench to ensure all of the features that I wanted would work. Since our garage space is fairly limited, I wanted to incorporate our large rolling toolbox, which stores all our hand tools underneath the new workbench. To make the design nice and strong from all directions, I chose a construction method where I in-set the smaller 2x4's into notched in the 4x4's and secure it with multiple long screws. I, then, mounted our small workbench vise to the solid core wooden door, which we repurposed as a workbench top, with 4 large bolts and nuts. My CAD design can be found [here](http://wbenb.github.io/assets/workbench-cad.pdf).
+
+![Workbench](http://wbenb.github.io/assets/img/workbench.jpg)
