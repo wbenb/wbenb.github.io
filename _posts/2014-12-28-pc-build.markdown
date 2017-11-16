@@ -26,4 +26,5 @@ These are the components that I chose for my PC:
 * Cougar 140mm Green LED Fan x3
 * NZXT Hue+ LED Lighting
 
-![Desk](http://wbenb.github.io/assets/img/desk.jpg)
+![PC Build 1](http://wbenb.github.io/assets/img/pc_build_1.jpg)
+![PC Build 2](http://wbenb.github.io/assets/img/pc_build_2.jpg)
