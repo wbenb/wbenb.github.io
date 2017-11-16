@@ -19,5 +19,5 @@ After building the PWM Motor Tester, I realized that it would be nice to have a 
 ## Details
 In order to find the voltage, I connected the Voltmeter in parallel to the load, which worked perfectly. However, when wiring an ammeter like this one, I needed to connect the current shunt in series with the load's ground, and the display power wires in series next to the voltmeter. This made the wiring much more complex. When I tested it, the voltmeter displayed the proper voltage, but the ammeter only showed a very low number. I am fairly sure the ammeter we picked doesn't have adaquete resolution to be used with a single, relatively small motor. 
 
-##Next Steps
+## Next Steps
 My next step in troubleshooting this design will be connecting it to a much larger load, while exluding the voltmeter, to hopefully show the ammeter working properly.
