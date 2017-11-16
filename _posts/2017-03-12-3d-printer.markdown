@@ -8,7 +8,7 @@ tags: [Robotics]
 ---
 
 ## Overview
-I assembled a 3d printer kit, the Prusa I3 MK2, that is used to print parts for projects and for the robotics team. I then upgraded the printer with internet connectivity, and built a custom power supply box for the printer and Raspberry Pi.
+I assembled a 3d printer kit, the Prusa I3 MK2, that is used to print parts for our home projects and for the robotics team. I, then, upgraded the printer with internet connectivity, and built a custom power supply box for the printer and the Raspberry Pi.
 
 ## Parts
 * Prusa I3 MK2 (Unassembled)
@@ -16,6 +16,6 @@ I assembled a 3d printer kit, the Prusa I3 MK2, that is used to print parts for 
 * Custom Electric Box
 
 ## Details
-The Prusa I3 MK2 kit is one of the best printers for the price at this time, and assembling it yourself reduces the price even more. The kit is very easy to assemble, no soldering required! The hardest part of the assembly process, as ussual with 3d printers is the calibration steps at the end. With the Prusa I3, they make this part simpler by adding a cool probe that automatically detects the location on the print bed. Because of this we were up and printing very quickly. I later discovered a cool piece of software called OctoPrint, a free operating system for the Raspberry Pi, a $35 mini computer. OctoPrint plugs into and controls the printer and allows you to interface with it over the internet, versus having to load files on the SD card and move them to the printer each time. In addition, it allows logging of data, easy temperature control, and viewing how the print is doing using a webcam remotely. 
+The Prusa I3 MK2 kit is one of the best printers for the price at this time, and assembling it yourself reduces the price even more. The kit is very easy to assemble, no soldering required! The hardest part of the assembly process, as usual with 3d printers, is the calibration steps at the end. With the Prusa I3, they make this part simpler by adding a cool probe which automatically detects the location on the print bed. As a result, we were up and printing very quickly. I later discovered a cool piece of software called OctoPrint, a free operating system for the Raspberry Pi (a $35 mini computer). OctoPrint plugs into and controls the printer, allowing you to interface with it over the internet, versus having to load files on the SD card and move them to the printer each time. In addition, OctoPrint allows logging of data, easy temperature control, and remote viewing of the active print using a webcam. 
 
-Now, since we have the Printer and the Raspberry Pi together as one element, we need to power both of them and be able to turn power on and off for the Raspberry Pi. For this I got standard electrical outlets, a switch, a cord with plug, and a metal junction box. I put these together so that we have a custom extension cord with two outlets, that are controlled by the switch, to turn the printer and Raspberry Pi on and off at the same time.
+Since the printer and the Raspberry Pi were located together as one element, we needed to power both of them and be able to turn power on and off for the Raspberry Pi. For this I got standard electrical outlets, a switch, a cord with plug, and a metal junction box. I assembled these as a custom extension cord with two outlets that are controlled by one switch, to turn the printer and Raspberry Pi on and off at the same time.
