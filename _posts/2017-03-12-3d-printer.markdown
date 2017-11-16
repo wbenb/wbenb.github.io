@@ -2,7 +2,7 @@
 layout: post
 title: "Building a 3D Printer"
 date: 2017-03-12 13:32:20 +0300
-description: Built and tested my family's new 3D printer.  # Add post description (optional)
+description: Built and tested my family's Prusa I3 MK2 kit, and built a custom power supply box for the printer and a Raspberry Pi. Installed OctoPrint, a free operating system for the Raspberry Pi, which allows interfacing with the printer over the internet which includes logging of data, easy temperature control, and remote viewing of the active print using a webcam.   
 img: 3d-printer-main.jpg # Add image post (optional)
 tags: [Robotics]
 ---
