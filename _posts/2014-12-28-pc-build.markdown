@@ -25,3 +25,5 @@ These are the components that I chose for my PC:
 * TP-Link PCI-Express Wi-Fi Adapter
 * Cougar 140mm Green LED Fan x3
 * NZXT Hue+ LED Lighting
+
+![Desk](http://wbenb.github.io/assets/img/desk.jpg)
