@@ -8,7 +8,7 @@ tags: [Laser, Robotics]
 ---
 
 ## Purpose
-During the robotics build season, we only have 6 weeks to build the robot. We don't have alot of time to design, prototype, and test parts for the robot. The team was offered the chance to buy a old laser cutter, missing some parts, from one of the mentor's coworkers. We decided that it would be very helpful to use the laser cutter to make prototype parts faster, and more accurately out of wood or plastics. Once we got the old laser cutter up and running with old parts, we purchased brand new parts to build a new laser cutter from scratch, which is double the power, and double the size.
+During the robotics build season, we only have 6 weeks to build the robot. We don't have alot of time to design, prototype, and test parts for the robot. The team was offered the chance to buy a old laser cutter, missing some parts, from one of the mentor's coworkers. We decided that it would be very helpful to use the laser cutter to make prototype parts faster, and more accurately out of wood or plastics. Once we got the old laser cutter up and running with old parts, we purchased brand new parts to build a new laser cutter from scratch, which is double the power, and double the size. Below is the picture of the old laser cutter, and further down is a picture of our new, more powerful laser cutter.
 
 ![Old Laser Cutter](http://wbenb.github.io/assets/img/oldlasercutter.jpg)
 
