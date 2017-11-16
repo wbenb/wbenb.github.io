@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 Years as Electrical Subteam Lead"
+title: "3 Years as Electrical Subteam Lead  (Current)"
 date: 2017-09-01 13:32:20 +0300
 published: true
 description: I work on the electrical subteam to wire and debug the robots control systems, do maintenance in the pit at competitions, and train electrical subteam members. # Add post description (optional)
