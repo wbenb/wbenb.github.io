@@ -8,7 +8,7 @@ tags: [Robotics]
 ---
 
 ## Overview
-I assembled a 3d printer kit, the Prusa I3 MK2, that is used to print parts for our home projects and for the robotics team. I, then, upgraded the printer with internet connectivity, and built a custom power supply box for the printer and the Raspberry Pi.
+Built and tested my family's Prusa I3 MK2 kit, and built a custom power supply box for the printer and a Raspberry Pi. Installed OctoPrint, a free operating system for the Raspberry Pi, which allows interfacing with the printer over the internet to log  data, provide simple temperature control, and remote view the active print using a webcam.
 
 ## Parts
 * Prusa I3 MK2 (Unassembled)
