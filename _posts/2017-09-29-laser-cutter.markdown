@@ -12,7 +12,7 @@ During the robotics build season, we only have 6 weeks to build the robot. We do
 
 ![Old Laser Cutter](http://wbenb.github.io/assets/img/oldlasercutter.jpg)
 
-## Parts
+## Parts for the Larger, More Powerful Laser Cutter
 * Custom Aluminum 80/20 Frame
 * XLE X/Y Stage Frame
 * 80 Watt Laser Tube
