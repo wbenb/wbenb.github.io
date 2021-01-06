@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Denbigh Landfill Project  (Current)"
+title: "The Denbigh Landfill Project"
 date: 2017-08-20 13:32:20 +0300
-description: Currently working with the Newport News landfill to design a prototype remote monitoring system for the temperature of their compost piles. # Add post description (optional)
+description: Currently working with the Newport News landfill to design a prototype remote monitoring system for the temperature of their compost piles.
 img: denbigh-landfill.jpg
 tags:
 ---
