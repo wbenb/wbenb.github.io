@@ -6,6 +6,10 @@ published: true
 description: As my FRC team's electrical subteam lead for the last 3 years, I am responsible for designing and building the robot’s electrical & pneumatics systems, training sub-team members, and debugging electrical and non-electrical problems under pressure as part of the pit crew during competitions. 
 img: electrical-subteam-main.jpg
 tags:
+image_sliders:
+  - slider1
+  - slider2
+  - slider3
 ---
 
 As electrical subteam lead, I am responsible for designing and building the robot’s electrical & pneumatics system, training sub-team members, and debugging electrical and non-electrical problems under pressure as part of the pit crew during competitions.  Triple Helix advanced to the FIRST World Championship in St. Louis for the last 4 years!
