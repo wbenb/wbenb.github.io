@@ -3,7 +3,7 @@ layout: post
 title: "Building my new PC"
 date: 2014-12-28 13:32:20 +0300
 description: Budgeted, researched components, and built myself a new PC.  Later, I also built a new PC for my parents.   # Add post description (optional)
-img: pc-build-main.jpg # Add image post (optional)
+img: 2014 pc build/pc-build-main.jpg # Add image post (optional)
 tags: [RESEARCH]
 ---
 
@@ -26,4 +26,4 @@ These are the components that I chose for my PC:
 * Cougar 140mm Green LED Fan x3
 * NZXT Hue+ LED Lighting
 
-![PC Build 2](http://wbenb.github.io/assets/img/pc_build_2.jpg)
+![PC Build 2](http://wbenb.github.io/assets/img/2014 pc build/pc_build_2.jpg)
