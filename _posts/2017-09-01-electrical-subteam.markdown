@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "3 Years as Electrical Subteam Lead  (Current)"
+title: "3 Years as Electrical Subteam Lead"
 date: 2017-09-01 13:32:20 +0300
 published: true
 description: As my FRC team's electrical subteam lead for the last 3 years, I am responsible for designing and building the robot’s electrical & pneumatics systems, training sub-team members, and debugging electrical and non-electrical problems under pressure as part of the pit crew during competitions. 
