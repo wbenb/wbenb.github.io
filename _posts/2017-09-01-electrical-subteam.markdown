@@ -25,21 +25,3 @@ This is our 2016 robot built to play the game Stronghold. In Stronghold, robots 
 This is our 2017 robot built to play the game Steamworks. In Steamworks, robots score points by picking up gears from the floor and placing on the pegs, by shooting fuel into the high goal, by dumping fuel into the low goal, and by climbing our rope on the side of the "airship" at the end of the round. Our robot was built primarily to place as many gears as possible and then climb. However, during the season we were constantly trying out different fuel shooter designs at competitions. Something unique about this year's robot is that, in addition to having our regular six wheeled drivetrain, it also had a set of four drop down caster wheels that could be deployed to lift the robot off the ground slightly, allowing for more manueverability.
 
 ![2017 Robot](http://wbenb.github.io/assets/img/robots/2017-robot.jpg)
-
-## slider 1
-
-settings for this slider taken from
-
-{% include slider.html selector="slider1" %}
-
-## slider 2
-
-same images, different settings.
-
-{% include slider.html selector="slider2" %}
-
-## slider 3
-
-same images, minimal settings, no bullets, no captions, no navigation
-
-{% include slider.html selector="slider3" %}
