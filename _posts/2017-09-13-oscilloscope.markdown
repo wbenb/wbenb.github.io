@@ -2,7 +2,6 @@
 layout: post
 title: "Building a DIY Oscilloscope"
 date: 2017-09-13 13:32:20 +0300
-published: true
 description: Built a DIY data logging oscilloscope for use in testing and troubleshooting electronics.
 img: o-scope.jpg
 tag: [BUILD]
