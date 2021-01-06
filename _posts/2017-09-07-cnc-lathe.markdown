@@ -3,7 +3,7 @@ layout: post
 title: "CNC Lathe Project"
 date: 2017-09-07 13:32:20 +0300
 description: Currently modifing a low cost lathe by adding a larger motor and the electronics needed for CNC control.  # Add post description (optional)
-img: cnc-lathe-main.jpg # Add image post (optional)
+img: /cnc-lathe-build/motor-vfd.jpg # Add image post (optional)
 tags: [Robotics]
 ---
 

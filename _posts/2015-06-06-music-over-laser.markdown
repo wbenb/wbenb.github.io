@@ -2,13 +2,12 @@
 layout: post
 title: "9th Grade Honors Physics Project"
 date: 2015-06-06 13:32:20 +0300
-description: Built a device to send audio signals over distances via a laser beam.  # Add post description (optional)
+description: Built a set of devices with simple and cheap circuits to send and receive audio signals over distances via a laser beam.  # Add post description (optional)
 img: music-over-laser-main.jpg # Add image post (optional)
 tags: [RESEARCH, DESIGN]
 ---
 
-## Purpose
-As my 9th grade, Honors Physics, end of year project, I built a device to send audio signals over distances via a laser beam.
+As my 9th grade, Honors Physics, end of year project, I built a set of devices with simple and cheap circuits to send and receive audio signals over distances via a laser beam.
 
 ## Parts
 * Altoids Metal Tins

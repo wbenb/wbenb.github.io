@@ -2,8 +2,8 @@
 layout: post
 title: "PWM Tester Project"
 date: 2016-08-08 13:32:20 +0300
-description: Designed and built an arduino based device to generate PWM signals for use in testing motorized mechanisms at robotics.  # Add post description (optional)
-img: pwm-tester-main.jpg # Add image post (optional)
+description: Designed and built an arduino based device to generate PWM signals for use in testing motorized mechanisms for use in robotics.  # Add post description (optional)
+img: /pwm-tester/pwm-tester-main.jpg # Add image post (optional)
 tags:
 ---
 
@@ -27,5 +27,5 @@ So, to generate a PWM signal for the motor controller, I setup a small Arduino m
 
 More resources about this project can be found on my [Github](https://github.com/wbenb/PWMgen).
 
-![PWM Motor Tester](http://wbenb.github.io/assets/img/pwm_tester.jpg)
+![PWM Motor Tester](http://wbenb.github.io/assets/img/pwm-tester/pwm_tester.jpg)
 
