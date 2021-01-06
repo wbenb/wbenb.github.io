@@ -3,7 +3,7 @@ layout: post
 title: "Building my new PC"
 date: 2014-12-28 13:32:20 +0300
 description: Budgeted, researched components, and built myself a new PC.  Later, I also built a new PC for my parents.   # Add post description (optional)
-img: 2014 pc build/pc-build-main.jpg # Add image post (optional)
+img: /2014 pc build/pc-build-main.jpg # Add image post (optional)
 tags: [RESEARCH]
 ---
 
