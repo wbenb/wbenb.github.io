@@ -1,11 +1,13 @@
 ---
 layout: post
 title: "Title"
-date: 2019-09-11 13:32:20 +0300
+date: 2019-09-11
 published: false
 description: Description.
 img: /robot/o-scope.jpg
-tag: [BUILD]
+tag: [BUILD, RESEARCH]
+image_sliders:
+  - slider1
 ---
 
 Header
@@ -16,3 +18,5 @@ Image
 
 Link
 [Text](https://github.com/wbenb/PWMgen)
+
+{% include slider.html selector="slider2" %}

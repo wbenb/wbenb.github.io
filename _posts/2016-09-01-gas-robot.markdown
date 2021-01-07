@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gas Engine Powered Robot Project"
-date: 2016-09-01 13:32:20 +0300
+date: 2016-09-01
 description: As a fun summer project on the robotics team, I worked on designing and building a remote control system with a gas engine mounted on and controlling a go-kart chassis.  
 img: /gas-robot/gas-robot-main.jpg
 tags: [RESEARCH]

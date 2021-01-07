@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PWM Tester Project"
-date: 2016-08-08 13:32:20 +0300
+date: 2016-08-08
 description: Designed and built an arduino based device to generate PWM signals for use in testing motorized mechanisms for use in robotics.
 img: /pwm-tester/pwm-tester-main.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIY Desk Build"
-date: 2015-07-21 13:32:20 +0300
+date: 2015-07-21
 description: Designed and built a custom computer desk out of a butcher block top and black iron pipe.
 img: /desk/desk-build-main.jpg
 tags: [RESEARCH, DESIGN]

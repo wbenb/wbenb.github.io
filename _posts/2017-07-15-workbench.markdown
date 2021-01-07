@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Garage Workbench Build"
-date: 2017-07-15 13:32:20 +0300
+date: 2017-07-15
 description: Designed in CAD and built a custom workbench for our home garage workshop.
 img: /workbench/workbench-main.jpg #
 tags: [CAD, RESEARCH, DESIGN]

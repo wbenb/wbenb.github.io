@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "DIY Workbench Power Supply"
-date: 2016-08-14 13:32:20 +0300
+date: 2016-08-14
 description: Designed and built a device that connects to a PC power supply to provide multiple voltages used for running electronics.
 img: /power-supply/power-supply-main.jpg
 tags:
