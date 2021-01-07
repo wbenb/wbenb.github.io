@@ -1,0 +1,172 @@
+# CNC Lathe Slider
+- selector: slider1
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/cnc-lathe-build/bandsaw-parts.jpg
+      alt: Thick aluminum parts I cut on the bandsaw then milled to shape.
+    - data-src: /assets/img/cnc-lathe-build/motor-vfd.jpg
+      alt: The 3 Phase motor and Variable Frequency Drive.
+    - data-src: /assets/img/cnc-lathe-build/vfd-wiring.PNG
+      alt: A wiring diagram for the industrial Westinghouse Variable Frequency Drive.
+    - data-src: /assets/img/cnc-lathe-build/cart-and-screen.jpg
+      alt: Lathe assembly on cart with control computer and touch screeen.
+    - data-src: /assets/img/cnc-lathe-build/stepper-motor.jpg
+      alt: One of the stepper motors used for controlling the lathe axis.
+    - data-src: /assets/img/cnc-lathe-build/cnc-lathe-main.jpg
+      alt: Motor assembled onto lathe.
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+
+#2014 PC Build Slider
+- selector: slider2
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/2014-pc-build/pc_build_2.jpg
+      alt: 
+    - data-src: /assets/img/2014-pc-build/PCGraphicsCard.jpg
+      alt: 
+    - data-src: /assets/img/2014-pc-build/PCInside.jpg
+      alt: 
+    - data-src: /assets/img/2014-pc-build/PCSSD.jpg
+      alt: 
+    - data-src: /assets/img/2014-pc-build/PCWaterCool2.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+    
+#2018 PC Build Slider
+- selector: slider3
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/2018-pc/2018-pc-upgrade-00.jpg
+      alt: 
+    - data-src: /assets/img/2018-pc/2018-pc-upgrade-01.jpg
+      alt: 
+    - data-src: /assets/img/2018-pc/2018-pc-upgrade-02.jpg
+      alt: 
+    - data-src: /assets/img/2018-pc/2018-pc-upgrade-03.jpg
+      alt: 
+    - data-src: /assets/img/2018-pc/2018-pc-upgrade-04.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+
+#2018 Vacuum Pump Rebuild
+- selector: slider4
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/2018-v-pump/2018-v-pump-00.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-01.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-02.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-03.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-04.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-05.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-06.jpg
+      alt: 
+    - data-src: /assets/img/2018-v-pump/2018-v-pump-07.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+
+
+#2020 PC Build Slider
+- selector: slider5
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/2020-pc-build/2020-pc-01.jpg
+      alt: 
+    - data-src: /assets/img/2020-pc-build/2020-pc-02.jpg
+      alt: 
+    - data-src: /assets/img/2020-pc-build/2020-pc-03.jpg
+      alt: 
+    - data-src: /assets/img/2020-pc-build/2020-pc-04.jpg
+      alt: 
+    - data-src: /assets/img/2020-pc-build/2020-pc-05.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+    
+#RC Car Build
+- selector: slider6
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/rc-car/rc-car-00.jpg
+      alt: 
+    - data-src: /assets/img/rc-car/rc-car-01.jpg
+      alt: 
+    - data-src: /assets/img/rc-car/rc-car-02.jpg
+      alt: 
+    - data-src: /assets/img/rc-car/rc-car-03.jpg
+      alt: 
+    - data-src: /assets/img/rc-car/rc-car-04.jpg
+      alt: 
+    - data-src: /assets/img/rc-car/rc-car-05.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laser Cutter Project"
-date: 2017-07-24 13:32:20 +0300
+date: 2017-07-24
 description: Constructed and wired an 80 watt laser cutter for manufacturing robot parts.
 img: /laser/laser-cutter-main.jpg
 tags: [Laser, Robotics]

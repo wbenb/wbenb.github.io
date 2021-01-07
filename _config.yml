@@ -10,11 +10,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Author Settings
 author: Ben Bretton # add your name
 author-img: senior-pic.jpg # add your photo
-about-author: Lifelong maker, robotics enthusiast, and the electrical subteam lead for FRC team 2363 Triple Helix. # add description
+about-author: Lifelong maker, robotics enthusiast, former electrical subteam lead for FRC team 2363 Triple Helix, and VCU Machine Shop Foreman. # add description
 twitter: # add your Twitter handle
 facebook: ben.bretton # add your Facebook handle
 github: wbenb # add your Github handle
-linkedin: # add your Linkedin handle
+linkedin: wbenb # add your Linkedin handle
 email: wbbretton@gmail.com # add your Email address
 
 # Tracker
