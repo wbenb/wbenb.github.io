@@ -170,3 +170,55 @@
     keyboardNav: true
     previousNavSelector:
     nextNavSelector:
+
+#Gary Fisher Build
+- selector: slider7
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/garyfisher/gf-frame.jpg
+      alt: 
+    - data-src: /assets/img/garyfisher/gf-weight.jpg
+      alt: 
+    - data-src: /assets/img/garyfisher/gf-parts.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
+    
+#EcoHitch GTI
+- selector: slider8
+  bullets: false
+  captions: true
+  images:
+    - src: /assets/img/ecohitch/ecohitch-1.jpg
+      alt: 
+    - data-src: /assets/img/ecohitch/ecohitch-2.jpg
+      alt: 
+    - data-src: /assets/img/ecohitch/ecohitch-antenna.jpg
+      alt: 
+    - data-src: /assets/img/ecohitch/ecohitch-done.jpg
+      alt: 
+    - data-src: /assets/img/ecohitch/ecohitch-receiver.jpg
+      alt: 
+    - data-src: /assets/img/ecohitch/ecohitch-loaded.jpg
+      alt: 
+  settings:
+    height: "'auto'"
+    initialHeight:
+    maxHeight: 800
+    interval: 4000
+    transitionDuration: 400
+    effect: "'slide'"
+    disableNav: false
+    keyboardNav: true
+    previousNavSelector:
+    nextNavSelector:
