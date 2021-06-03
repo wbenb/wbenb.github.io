@@ -5,7 +5,7 @@ date: 2019-09-11
 published: false
 description: Description.
 img: /robot/o-scope.jpg
-tag: [BUILD, RESEARCH]
+tag: [ALL, BUILD, RESEARCH]
 image_sliders:
   - slider1
 ---

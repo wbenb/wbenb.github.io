@@ -4,10 +4,10 @@ title: "Garage Workbench Build"
 date: 2017-07-15
 description: Designed in CAD and built a custom workbench for our home garage workshop.
 img: /workbench/workbench-main.jpg #
-tags: [CAD, RESEARCH, DESIGN]
+tags: [ALL, CAD, RESEARCH, DESIGN]
 ---
 
-After cleaning out our garage the previous summer, I thought it would be cool to have a workshop space in the garage. Instead of being limited to the small number of pre-made workbenchs available for sale, I decided to design and build my own from standard hardware store lumber and the common handtools I had discovered when organizing the tools in our garage.
+After cleaning out our garage the previous summer, I thought it would be cool to have a workshop space in the garage. Instead of being limited to the small number of pre-made workbench's available for sale, I decided to design and build my own from standard hardware store lumber and the common hand tools I had discovered when organizing the tools in our garage.
 
 ## Materials
 * 2x 4x4x96 inch non pressure treated lumber

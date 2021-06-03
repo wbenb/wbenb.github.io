@@ -4,7 +4,7 @@ title: "Laser Cutter Project"
 date: 2017-07-24
 description: Constructed and wired an 80 watt laser cutter for manufacturing robot parts.
 img: /laser/laser-cutter-main.jpg
-tags: [Laser, Robotics]
+tags: [ALL, LASER, ROBOTICS]
 ---
 
 ## Purpose
@@ -26,9 +26,9 @@ During the robotics build season, we only have 6 weeks to build the robot. We do
 * Air Pump
 
 ## Details
-For the new larger, more powerful laser cutter, we started by building a large aluminum frame from 80/20 that can accomodate the 4 foot long laser tube and a larger cutting space. We, then, assembled the x and y frame from a kit, and upgraded to stepper motors with built in sensors for closed loop control. We mounted all the electronics and made a custom control panel with the screen, usb port, current meter, emergency stop, and laser tube current meter. In order to power the air pump, water chiller, and 4 power supplies, I designed and built a custom power distribution board to get wall outlet voltage from the power entry module with a circuit breaker to the unswitched and emergency switched circuits. This way when the emergency stop is activated, the motor movement is disabled and the laser is disabled, but the control system, air pump, and water chiller stay on. We, then, used the laser to cut and engrave many different types of materials, and recorded the power level and the speed needed to cut that material in a table for future use. We render a 2D drawing DXF file from a 3D CAD model, transfer it to the laser cutter on a USB drive and, then, load and cut the design. 
+For the new larger, more powerful laser cutter, we started by building a large aluminum frame from 80/20 that can accommodate the 4 foot long laser tube and a larger cutting space. We, then, assembled the x and y frame from a kit, and upgraded to stepper motors with built in sensors for closed loop control. We mounted all the electronics and made a custom control panel with the screen, USB port, current meter, emergency stop, and laser tube current meter. In order to power the air pump, water chiller, and 4 power supplies, I designed and built a custom power distribution board to get wall outlet voltage from the power entry module with a circuit breaker to the un-switched and emergency switched circuits. This way when the emergency stop is activated, the motor movement is disabled and the laser is disabled, but the control system, air pump, and water chiller stay on. We, then, used the laser to cut and engrave many different types of materials, and recorded the power level and the speed needed to cut that material in a table for future use. We render a 2D drawing DXF file from a 3D CAD model, transfer it to the laser cutter on a USB drive and, then, load and cut the design.
 
 ![New Laser Cutter](http://wbenb.github.io/assets/img/laser/newlasercutter.jpg)
 
 ## Next Steps
-The next steps in this project are making a spring-loaded door to access the table, so it can open and stay up while inserting or removing material and to build some kind of fume extraction system, with a fan, that can take smoke away from the workpiece and exhuast it outside the plastic encolure of the laser cutter.  Currently, we operate the laser cutter outside so fumes are not an issue.
+The next steps in this project are making a spring-loaded door to access the table, so it can open and stay up while inserting or removing material and to build some kind of fume extraction system, with a fan, that can take smoke away from the workpiece and exhaust it outside the plastic enclosure of the laser cutter.  Currently, we operate the laser cutter outside so fumes are not an issue.

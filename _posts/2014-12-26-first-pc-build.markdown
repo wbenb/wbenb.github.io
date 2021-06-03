@@ -4,7 +4,7 @@ title: "Building my new PC"
 date: 2014-12-26
 description: Budgeted, researched components, and assembled a desktop computer for everything from gaming to CAD to school work.
 img: /2014-pc-build/pc-build-main.jpg
-tags: [RESEARCH]
+tags: [ALL, RESEARCH, BUILD]
 image_sliders:
   - slider2
 ---

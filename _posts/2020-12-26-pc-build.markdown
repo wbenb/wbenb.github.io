@@ -5,7 +5,7 @@ date: 2020-12-26
 published: true
 description:   Six years after I originally built my first desktop computer from parts that I researched, the key components were starting to show their age. So I replaced the CPU cooler for a newer larger one, and rebuilt the graphics card with new thermal interface material.
 img: /2020-pc-build/2020-pc-03.jpg
-tag: [RESEARCH, MECHANICAL]
+tag: [ALL, RESEARCH, MECHANICAL]
 image_sliders:
   - slider5
 ---
