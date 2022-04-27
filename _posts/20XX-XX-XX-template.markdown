@@ -20,3 +20,7 @@ Link
 [Text](https://github.com/wbenb/PWMgen)
 
 {% include slider.html selector="slider2" %}
+
+Column  | Column   | Column
+------- | -------- | -------
+content | content  | content

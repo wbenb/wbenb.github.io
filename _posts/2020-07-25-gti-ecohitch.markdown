@@ -24,6 +24,6 @@ To solve this problem, I researched aftermarket hitch solutions for the GTI. I c
 
 This EcoHitch Stealth model completely replaces the original metal crash bar behind the bumper but does not provide any place to mount this module. Doing a little more research, this module has the Volkswagen Part Number 3G9.035.534. According to the few German parts sellers and forums I have found, this is an LTE/Cellular antenna. I don’t know when Volkswagen added this feature to their cars, but they now have VW Car-Net service and SOS/Emergency buttons in their cars, so this is likely what this module is for.
 
-![The problem: VW LTE Antenna](http://wbenb.github.io/assets/ecohitch/ecohitch-problem.jpg)
+![The problem: VW LTE Antenna](http://wbenb.github.io/assets/img/ecohitch/ecohitch-problem.jpg)
 
 To work around this and secure the module on the EcoHitch tow bar, I drilled a small 1/4 inch hole through the side plate of the tow bar. This allowed me to mount the module securely in the space between the EcoHitch tow bar and the other electronic module (presumably the blind spot monitor) using a 1” long, ¼”-20 stainless steel Allen head bolt and nylon lock nut. After I finished the install, there were no warning or lights in the car, and everything still functioned as intended.

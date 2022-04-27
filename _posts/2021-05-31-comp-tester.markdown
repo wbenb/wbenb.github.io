@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Building a DIY Oscilloscope"
-date: 2017-09-13
+title: "Building an Electronics Component Tester"
+date: 2021-05-31
 hidden: true
-description: Built a DIY data logging oscilloscope for use in testing and troubleshooting electronics.
+description: Built an electronics component tester from a kit of parts. The tester quickly identifies and measures the values of electrical components
 img: /o-scope/pcb-front.jpg
 tag: [ALL, BUILD]
 ---
