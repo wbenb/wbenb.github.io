@@ -2,7 +2,7 @@
 layout: post
 title: "Energy Analysis of VCU College of Health Professions Building"
 date: 2022-04-29
-published: false
+published: true
 description: Conducted a comprehensive investigation of mechanical, electrical and plumbing hardware along with programming and logs building automation system in a 2019 built LEED Silver certified 154,000 square foot highrise.
 img: /senior-design/cohp-building.jpg
 tag: [ALL, RESEARCH]
