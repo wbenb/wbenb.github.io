@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Energy Analysis of VCU College of Health Professions Building"
+title: Energy Analysis of VCU College of Health Professions Building
 date: 2022-04-29
 published: true
-description: Conducted a comprehensive investigation of mechanical, electrical and plumbing hardware along with programming and logs building automation system in a 2019 built LEED Silver certified 154,000 square foot highrise.
+description: Conducted a comprehensive investigation of mechanical, electrical and plumbing hardware along with programming and logs building automation system in a 2019 built LEED Silver certified 154,000 square foot high-rise.
 img: /senior-design/cohp-building.jpg
-tag: [ALL, RESEARCH]
+tags:
+  - ALL
+  - RESEARCH
 ---
-
-Header
-## Header
 
 As a part of my senior capstone engineering project at VCU, I worked with [Professor Shawn Chen, Ph.D.](https://egr.vcu.edu/directory/shawn.chen/) and Lee Harrelson, PE from [CMTA Inc.](https://www.cmta.com/) in Richmond Virginia. CMTA is a engineering and consulting firm specializing in sustainable, zero energy, LEED certified buildings.
 
@@ -21,4 +20,4 @@ Our Poster which we presented in the Senior Capstone Expo at the Stuart C. Siege
 
 Our abstract:
 
-![Abstract](http://wbenb.github.io/assets/img/senior-design/abstract-pic-main.jpg)
+![Abstract](http://wbenb.github.io/assets/img/senior-design/abstract-pic-min.jpg)
