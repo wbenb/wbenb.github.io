@@ -20,4 +20,3 @@ Our Poster which we presented in the Senior Capstone Expo at the Stuart C. Siege
 
 Our abstract:
 
-![Abstract](http://wbenb.github.io/assets/img/senior-design/abstract-pic-min.jpg)
